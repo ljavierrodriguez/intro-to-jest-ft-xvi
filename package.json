@@ -1,0 +1,23 @@
+{
+  "name": "intro-to-jest-ft-xvi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljavierrodriguez/intro-to-jest-ft-xvi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljavierrodriguez/intro-to-jest-ft-xvi/issues"
+  },
+  "homepage": "https://github.com/ljavierrodriguez/intro-to-jest-ft-xvi#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
